@@ -1,0 +1,32 @@
+contains  	包含								replace()	代替; 替换 (方法用于在字符串中用一些字符替换另一些字符，或替换一个与正则表达式匹配的子串)
+constructor	构造器								
+equals  	是否相等							call()		应用某一对象的一个方法，以另一个对象替换当前对象。
+filter  	过滤器										call 方法可以用来代替另一个对象调用一个方法。
+slice   	切成片; 切下; 划分;一部分							call 方法可将一个函数的对象上下文从初始的上下文改变为由 thisObj 指定的新对象。
+find   		找到								apply()		应用某一对象的一个方法，用另一个对象替换当前对象
+children   	孩子们								prop()		获取在匹配的元素集中的第一个元素的属性值。
+each()		每一个匹配的元素作为上下文来执行一个函数			attr()		设置或返回被选元素的属性值。
+opacity		不透明性; 费解; 难懂; 模糊					addEventListener	DOM2模型
+prepend		预先考虑，预先计划，预谋					onclinck		DOM0模型
+after		在…以后							bind()		为每个匹配元素的特定事件绑定事件处理函数
+before		在…之前							live()		给所有匹配的元素附加一个事件处理函数
+toggleClass	如果存在（不存在）就删除（添加）一个类				delegate()	添加一个或多个事件处理程序
+prev		预防   匹配所有紧接在 prev 元素后的 next 元素			on()
+target		目标								closest()	从元素本身开始，逐级向上级元素匹配，并返回最先匹配的元素
+bind										mouseenter()	只有在鼠标指针穿过被选元素时，才会触发 mouseenter 事件
+live										hover()
+closest		向上找								setinterval()	在播放动画的时，每隔一定时间就调用函数，方法或对象
+delegate	委派代表							grep()
+on/off										inArray()
+append										merge()
+slideToggle									param()
+animate		赋予…以生命							extend()	用一个或多个其他对象来扩展一个对象，返回被扩展的对象
+slow		慢的; 迟钝的; 温和的; 慢于…的					options		选择
+select										promise		就是一个对象，用来传递异步操作的消息。它代表了某个未来才会知道结果的事件（通常是一个异步操作）
+setInterval() 	方法可按照指定的周期（以毫秒计）来调用函数或计算表达式。	scrollTop()	获取匹配元素相对滚动条顶部的偏移
+setTimeout() 	方法用于在指定的毫秒数后调用函数或计算表达式。
+clearInterval() 方法可取消由 setInterval() 设置的 timeout。
+cencat()	连接字符串
+typeof		只能检测到object的类型
+push()		向数组的末尾添加一个或更多元素，并返回新的长度
+insttanceof	 
